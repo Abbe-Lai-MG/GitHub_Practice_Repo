@@ -1,0 +1,1 @@
+One thing I learned today is how git only saves the changes
